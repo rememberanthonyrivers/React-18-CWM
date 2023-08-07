@@ -1,4 +1,4 @@
-CODE /
+CODE / quick tips 
 
     npm run dev 
         = to run dev server 
